@@ -1,0 +1,15 @@
+C:\Projetos\Pdf\Relatorio\GerarLote\bin\Debug\net6.0\GerarLote.exe
+C:\Projetos\Pdf\Relatorio\GerarLote\bin\Debug\net6.0\GerarLote.deps.json
+C:\Projetos\Pdf\Relatorio\GerarLote\bin\Debug\net6.0\GerarLote.runtimeconfig.json
+C:\Projetos\Pdf\Relatorio\GerarLote\bin\Debug\net6.0\GerarLote.dll
+C:\Projetos\Pdf\Relatorio\GerarLote\bin\Debug\net6.0\ref\GerarLote.dll
+C:\Projetos\Pdf\Relatorio\GerarLote\bin\Debug\net6.0\GerarLote.pdb
+C:\Projetos\Pdf\Relatorio\GerarLote\obj\Debug\net6.0\GerarLote.csproj.AssemblyReference.cache
+C:\Projetos\Pdf\Relatorio\GerarLote\obj\Debug\net6.0\GerarLote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Pdf\Relatorio\GerarLote\obj\Debug\net6.0\GerarLote.AssemblyInfoInputs.cache
+C:\Projetos\Pdf\Relatorio\GerarLote\obj\Debug\net6.0\GerarLote.AssemblyInfo.cs
+C:\Projetos\Pdf\Relatorio\GerarLote\obj\Debug\net6.0\GerarLote.csproj.CoreCompileInputs.cache
+C:\Projetos\Pdf\Relatorio\GerarLote\obj\Debug\net6.0\GerarLote.dll
+C:\Projetos\Pdf\Relatorio\GerarLote\obj\Debug\net6.0\ref\GerarLote.dll
+C:\Projetos\Pdf\Relatorio\GerarLote\obj\Debug\net6.0\GerarLote.pdb
+C:\Projetos\Pdf\Relatorio\GerarLote\obj\Debug\net6.0\GerarLote.genruntimeconfig.cache
