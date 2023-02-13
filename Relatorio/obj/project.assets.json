@@ -12,6 +12,7 @@
           "Microsoft.Extensions.ObjectPool": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Antiforgery.dll": {
             "related": ".xml"
           }
@@ -20,6 +21,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Antiforgery.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Antiforgery.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Antiforgery.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Authentication.Abstractions/2.0.1": {
@@ -30,6 +37,7 @@
           "Microsoft.Extensions.Options": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Authentication.Abstractions.dll": {
             "related": ".xml"
           }
@@ -38,6 +46,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Authentication.Abstractions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Authentication.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Authentication.Abstractions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Authentication.Core/2.0.1": {
@@ -48,6 +62,7 @@
           "Microsoft.AspNetCore.Http.Extensions": "2.0.1"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Authentication.Core.dll": {
             "related": ".xml"
           }
@@ -56,6 +71,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Authentication.Core.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Authentication.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Authentication.Core.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Authorization/2.0.1": {
@@ -65,6 +86,7 @@
           "Microsoft.Extensions.Options": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Authorization.dll": {
             "related": ".xml"
           }
@@ -73,6 +95,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Authorization.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Authorization.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Authorization.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Authorization.Policy/2.0.1": {
@@ -82,6 +110,7 @@
           "Microsoft.AspNetCore.Authorization": "2.0.1"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Authorization.Policy.dll": {
             "related": ".xml"
           }
@@ -90,6 +119,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Authorization.Policy.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Authorization.Policy.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Authorization.Policy.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Cors/2.0.1": {
@@ -102,6 +137,7 @@
           "Microsoft.Extensions.Options": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Cors.dll": {
             "related": ".xml"
           }
@@ -110,11 +146,18 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Cors.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cors.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cors.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Cryptography.Internal/2.0.1": {
         "type": "package",
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {
             "related": ".xml"
           }
@@ -123,6 +166,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.DataProtection/2.0.1": {
@@ -138,6 +187,7 @@
           "System.Security.Cryptography.Xml": "4.4.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.DataProtection.dll": {
             "related": ".xml"
           }
@@ -146,11 +196,18 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.DataProtection.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.DataProtection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.DataProtection.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.DataProtection.Abstractions/2.0.1": {
         "type": "package",
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.DataProtection.Abstractions.dll": {
             "related": ".xml"
           }
@@ -159,11 +216,18 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.DataProtection.Abstractions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.DataProtection.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.DataProtection.Abstractions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Diagnostics.Abstractions/2.0.1": {
         "type": "package",
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Diagnostics.Abstractions.dll": {
             "related": ".xml"
           }
@@ -172,6 +236,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Diagnostics.Abstractions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Diagnostics.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Diagnostics.Abstractions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Hosting.Abstractions/2.0.1": {
@@ -186,6 +256,7 @@
           "Microsoft.Extensions.Logging.Abstractions": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Abstractions.dll": {
             "related": ".xml"
           }
@@ -194,6 +265,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Abstractions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Abstractions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Hosting.Server.Abstractions/2.0.1": {
@@ -203,6 +280,7 @@
           "Microsoft.Extensions.Configuration.Abstractions": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll": {
             "related": ".xml"
           }
@@ -211,6 +289,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Html.Abstractions/2.0.0": {
@@ -219,6 +303,7 @@
           "System.Text.Encodings.Web": "4.4.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Html.Abstractions.dll": {
             "related": ".xml"
           }
@@ -227,6 +312,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Html.Abstractions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Html.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Html.Abstractions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Http/2.0.1": {
@@ -239,6 +330,7 @@
           "Microsoft.Net.Http.Headers": "2.0.1"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Http.dll": {
             "related": ".xml"
           }
@@ -247,6 +339,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Http.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Http.Abstractions/2.0.1": {
@@ -256,6 +354,7 @@
           "System.Text.Encodings.Web": "4.4.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll": {
             "related": ".xml"
           }
@@ -264,6 +363,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Http.Extensions/2.0.1": {
@@ -275,6 +380,7 @@
           "System.Buffers": "4.4.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Http.Extensions.dll": {
             "related": ".xml"
           }
@@ -283,6 +389,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Http.Extensions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Extensions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Extensions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Http.Features/2.0.1": {
@@ -291,6 +403,7 @@
           "Microsoft.Extensions.Primitives": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
             "related": ".xml"
           }
@@ -299,6 +412,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.JsonPatch/2.0.0": {
@@ -308,6 +427,7 @@
           "Newtonsoft.Json": "10.0.1"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.JsonPatch.dll": {
             "related": ".xml"
           }
@@ -316,6 +436,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.JsonPatch.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.JsonPatch.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.JsonPatch.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Localization/2.0.1": {
@@ -326,6 +452,7 @@
           "Microsoft.Extensions.Options": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Localization.dll": {
             "related": ".xml"
           }
@@ -334,6 +461,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Localization.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Localization.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Localization.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Mvc/2.0.1": {
@@ -351,6 +484,7 @@
           "Microsoft.Extensions.DependencyInjection": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.dll": {
             "related": ".xml"
           }
@@ -359,6 +493,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Mvc.Abstractions/2.0.1": {
@@ -368,6 +508,7 @@
           "Microsoft.Net.Http.Headers": "2.0.1"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Abstractions.dll": {
             "related": ".xml"
           }
@@ -376,6 +517,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Abstractions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Abstractions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Mvc.ApiExplorer/2.0.1": {
@@ -384,6 +531,7 @@
           "Microsoft.AspNetCore.Mvc.Core": "2.0.1"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.ApiExplorer.dll": {
             "related": ".xml"
           }
@@ -392,6 +540,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.ApiExplorer.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.ApiExplorer.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.ApiExplorer.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Mvc.Core/2.0.1": {
@@ -411,6 +565,7 @@
           "System.Diagnostics.DiagnosticSource": "4.4.1"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Core.dll": {
             "related": ".xml"
           }
@@ -419,6 +574,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Core.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Core.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Mvc.Cors/2.0.1": {
@@ -428,6 +589,7 @@
           "Microsoft.AspNetCore.Mvc.Core": "2.0.1"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Cors.dll": {
             "related": ".xml"
           }
@@ -436,6 +598,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Cors.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Cors.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Cors.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Mvc.DataAnnotations/2.0.1": {
@@ -446,6 +614,7 @@
           "System.ComponentModel.Annotations": "4.4.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.DataAnnotations.dll": {
             "related": ".xml"
           }
@@ -454,6 +623,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.DataAnnotations.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.DataAnnotations.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.DataAnnotations.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Mvc.Formatters.Json/2.0.1": {
@@ -463,6 +638,7 @@
           "Microsoft.AspNetCore.Mvc.Core": "2.0.1"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Formatters.Json.dll": {
             "related": ".xml"
           }
@@ -471,6 +647,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Formatters.Json.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Formatters.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Formatters.Json.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Mvc.Localization/2.0.1": {
@@ -482,6 +664,7 @@
           "Microsoft.Extensions.Localization": "2.0.1"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Localization.dll": {
             "related": ".xml"
           }
@@ -490,6 +673,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Localization.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Localization.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Localization.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Mvc.Razor/2.0.1": {
@@ -504,6 +693,7 @@
           "Microsoft.Extensions.FileProviders.Composite": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.dll": {
             "related": ".xml"
           }
@@ -512,6 +702,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Mvc.Razor.Extensions/2.0.1": {
@@ -521,6 +717,7 @@
           "Microsoft.CodeAnalysis.Razor": "2.0.1"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll": {
             "related": ".xml"
           }
@@ -529,6 +726,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Mvc.RazorPages/2.0.1": {
@@ -537,6 +740,7 @@
           "Microsoft.AspNetCore.Mvc.Razor": "2.0.1"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.RazorPages.dll": {
             "related": ".xml"
           }
@@ -545,6 +749,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.RazorPages.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.RazorPages.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.RazorPages.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Mvc.TagHelpers/2.0.1": {
@@ -558,6 +768,7 @@
           "Microsoft.Extensions.Primitives": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.TagHelpers.dll": {
             "related": ".xml"
           }
@@ -566,6 +777,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.TagHelpers.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.TagHelpers.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.TagHelpers.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Mvc.ViewFeatures/2.0.1": {
@@ -581,6 +798,7 @@
           "Newtonsoft.Json.Bson": "1.0.1"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.ViewFeatures.dll": {
             "related": ".xml"
           }
@@ -589,11 +807,18 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.ViewFeatures.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.ViewFeatures.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.ViewFeatures.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Razor/2.0.1": {
         "type": "package",
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Razor.dll": {
             "related": ".xml"
           }
@@ -602,11 +827,18 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Razor.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Razor.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Razor.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Razor.Language/2.0.1": {
         "type": "package",
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Razor.Language.dll": {
             "related": ".xml"
           }
@@ -615,6 +847,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Razor.Language.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Razor.Language.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Razor.Language.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Razor.Runtime/2.0.1": {
@@ -624,6 +862,7 @@
           "Microsoft.AspNetCore.Razor": "2.0.1"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Razor.Runtime.dll": {
             "related": ".xml"
           }
@@ -632,6 +871,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Razor.Runtime.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Razor.Runtime.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Razor.Runtime.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.ResponseCaching.Abstractions/2.0.1": {
@@ -640,6 +885,7 @@
           "Microsoft.Extensions.Primitives": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll": {
             "related": ".xml"
           }
@@ -648,6 +894,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Routing/2.0.1": {
@@ -660,6 +912,7 @@
           "Microsoft.Extensions.Options": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Routing.dll": {
             "related": ".xml"
           }
@@ -668,6 +921,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Routing.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Routing.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Routing.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.Routing.Abstractions/2.0.1": {
@@ -676,6 +935,7 @@
           "Microsoft.AspNetCore.Http.Abstractions": "2.0.1"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.Routing.Abstractions.dll": {
             "related": ".xml"
           }
@@ -684,6 +944,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Routing.Abstractions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.Routing.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Routing.Abstractions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.AspNetCore.WebUtilities/2.0.1": {
@@ -693,6 +959,7 @@
           "System.Text.Encodings.Web": "4.4.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.AspNetCore.WebUtilities.dll": {
             "related": ".xml"
           }
@@ -701,6 +968,12 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.WebUtilities.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.AspNetCore.WebUtilities.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.WebUtilities.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.CodeAnalysis.Analyzers/1.1.0": {
@@ -750,6 +1023,7 @@
           "System.Xml.XmlDocument": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard1.3/Microsoft.CodeAnalysis.dll": {
             "related": ".xml"
           }
@@ -758,6 +1032,12 @@
           "lib/netstandard1.3/Microsoft.CodeAnalysis.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard1.3/Microsoft.CodeAnalysis.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Microsoft.CodeAnalysis.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.CodeAnalysis.CSharp/2.3.1": {
@@ -766,6 +1046,7 @@
           "Microsoft.CodeAnalysis.Common": "[2.3.1]"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard1.3/Microsoft.CodeAnalysis.CSharp.dll": {
             "related": ".xml"
           }
@@ -774,6 +1055,12 @@
           "lib/netstandard1.3/Microsoft.CodeAnalysis.CSharp.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard1.3/Microsoft.CodeAnalysis.CSharp.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Microsoft.CodeAnalysis.CSharp.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.CodeAnalysis.Razor/2.0.1": {
@@ -784,6 +1071,7 @@
           "Microsoft.CodeAnalysis.Common": "2.3.1"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.CodeAnalysis.Razor.dll": {
             "related": ".xml"
           }
@@ -792,6 +1080,12 @@
           "lib/netstandard2.0/Microsoft.CodeAnalysis.Razor.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.CodeAnalysis.Razor.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.CodeAnalysis.Razor.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.CSharp/4.4.0": {
@@ -828,6 +1122,7 @@
           "Microsoft.Extensions.Primitives": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll": {
             "related": ".xml"
           }
@@ -836,6 +1131,12 @@
           "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.Extensions.Caching.Memory/2.0.0": {
@@ -846,6 +1147,7 @@
           "Microsoft.Extensions.Options": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll": {
             "related": ".xml"
           }
@@ -854,6 +1156,12 @@
           "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.Extensions.Configuration.Abstractions/2.0.0": {
@@ -862,6 +1170,7 @@
           "Microsoft.Extensions.Primitives": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
             "related": ".xml"
           }
@@ -870,6 +1179,12 @@
           "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.Extensions.DependencyInjection/2.0.0": {
@@ -878,6 +1193,7 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll": {
             "related": ".xml"
           }
@@ -886,11 +1202,18 @@
           "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.Extensions.DependencyInjection.Abstractions/2.0.0": {
         "type": "package",
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
             "related": ".xml"
           }
@@ -899,6 +1222,12 @@
           "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.Extensions.DependencyModel/2.0.3": {
@@ -923,6 +1252,7 @@
           "Microsoft.Extensions.Primitives": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Abstractions.dll": {
             "related": ".xml"
           }
@@ -931,6 +1261,12 @@
           "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Abstractions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Abstractions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.Extensions.FileProviders.Composite/2.0.0": {
@@ -939,6 +1275,7 @@
           "Microsoft.Extensions.FileProviders.Abstractions": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Composite.dll": {
             "related": ".xml"
           }
@@ -947,11 +1284,18 @@
           "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Composite.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Composite.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Composite.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.Extensions.FileSystemGlobbing/2.0.0": {
         "type": "package",
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll": {
             "related": ".xml"
           }
@@ -960,11 +1304,18 @@
           "lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.Extensions.Hosting.Abstractions/2.0.1": {
         "type": "package",
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.Extensions.Hosting.Abstractions.dll": {
             "related": ".xml"
           }
@@ -973,6 +1324,12 @@
           "lib/netstandard2.0/Microsoft.Extensions.Hosting.Abstractions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.Extensions.Hosting.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Hosting.Abstractions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.Extensions.Localization/2.0.1": {
@@ -984,6 +1341,7 @@
           "Microsoft.Extensions.Options": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.Extensions.Localization.dll": {
             "related": ".xml"
           }
@@ -992,11 +1350,18 @@
           "lib/netstandard2.0/Microsoft.Extensions.Localization.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.Extensions.Localization.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Localization.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.Extensions.Localization.Abstractions/2.0.1": {
         "type": "package",
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.Extensions.Localization.Abstractions.dll": {
             "related": ".xml"
           }
@@ -1005,11 +1370,18 @@
           "lib/netstandard2.0/Microsoft.Extensions.Localization.Abstractions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.Extensions.Localization.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Localization.Abstractions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.Extensions.Logging.Abstractions/2.0.0": {
         "type": "package",
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
             "related": ".xml"
           }
@@ -1018,11 +1390,18 @@
           "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.Extensions.ObjectPool/2.0.0": {
         "type": "package",
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.Extensions.ObjectPool.dll": {
             "related": ".xml"
           }
@@ -1031,6 +1410,12 @@
           "lib/netstandard2.0/Microsoft.Extensions.ObjectPool.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.Extensions.ObjectPool.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.ObjectPool.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.Extensions.Options/2.0.0": {
@@ -1040,6 +1425,7 @@
           "Microsoft.Extensions.Primitives": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.Extensions.Options.dll": {
             "related": ".xml"
           }
@@ -1048,6 +1434,12 @@
           "lib/netstandard2.0/Microsoft.Extensions.Options.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.Extensions.Options.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Options.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.Extensions.Primitives/2.0.0": {
@@ -1056,6 +1448,7 @@
           "System.Runtime.CompilerServices.Unsafe": "4.4.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll": {
             "related": ".xml"
           }
@@ -1064,6 +1457,12 @@
           "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.Extensions.WebEncoders/2.0.0": {
@@ -1074,6 +1473,7 @@
           "System.Text.Encodings.Web": "4.4.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.Extensions.WebEncoders.dll": {
             "related": ".xml"
           }
@@ -1082,6 +1482,12 @@
           "lib/netstandard2.0/Microsoft.Extensions.WebEncoders.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.Extensions.WebEncoders.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.WebEncoders.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.Net.Http.Headers/2.0.1": {
@@ -1091,6 +1497,7 @@
           "System.Buffers": "4.4.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/Microsoft.Net.Http.Headers.dll": {
             "related": ".xml"
           }
@@ -1099,6 +1506,12 @@
           "lib/netstandard2.0/Microsoft.Net.Http.Headers.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/Microsoft.Net.Http.Headers.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Net.Http.Headers.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.NETCore.Platforms/2.0.0": {
@@ -1127,9 +1540,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/Microsoft.Win32.Primitives.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/Microsoft.Win32.Primitives.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Microsoft.Win32.Registry/4.4.0": {
@@ -1140,9 +1557,13 @@
           "System.Security.Principal.Windows": "4.4.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard2.0/Microsoft.Win32.Registry.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard2.0/Microsoft.Win32.Registry.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Win32.Registry.dll": {}
@@ -1238,6 +1659,7 @@
           "System.Xml.XmlDocument": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard1.3/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
@@ -1246,6 +1668,12 @@
           "lib/netstandard1.3/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard1.3/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Newtonsoft.Json.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Newtonsoft.Json.Bson/1.0.1": {
@@ -1255,6 +1683,7 @@
           "Newtonsoft.Json": "10.0.1"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {
             "related": ".xml"
           }
@@ -1263,6 +1692,12 @@
           "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "Rotativa.AspNetCore/1.2.0": {
@@ -1454,9 +1889,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.6/System.AppContext.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.6/System.AppContext.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.6/System.AppContext.dll": {}
@@ -1479,9 +1918,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Collections.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Collections.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Collections.Concurrent/4.3.0": {
@@ -1499,9 +1942,13 @@
           "System.Threading.Tasks": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Collections.Concurrent.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Collections.Concurrent.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.Collections.Concurrent.dll": {}
@@ -1520,6 +1967,7 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard1.0/System.Collections.Immutable.dll": {
             "related": ".xml"
           }
@@ -1528,6 +1976,12 @@
           "lib/netstandard1.0/System.Collections.Immutable.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard1.0/System.Collections.Immutable.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/System.Collections.Immutable.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Collections.NonGeneric/4.3.0": {
@@ -1541,9 +1995,13 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Collections.NonGeneric.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Collections.NonGeneric.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.Collections.NonGeneric.dll": {}
@@ -1561,9 +2019,13 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/_._": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/_._": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.Collections.Specialized.dll": {}
@@ -1575,9 +2037,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.0/System.ComponentModel.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.0/System.ComponentModel.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.ComponentModel.dll": {}
@@ -1600,9 +2066,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.0/System.ComponentModel.Primitives.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.0/System.ComponentModel.Primitives.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.0/System.ComponentModel.Primitives.dll": {}
@@ -1628,9 +2098,13 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.5/System.ComponentModel.TypeConverter.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.5/System.ComponentModel.TypeConverter.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.5/System.ComponentModel.TypeConverter.dll": {}
@@ -1646,9 +2120,13 @@
           "System.Text.Encoding": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Console.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Console.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Diagnostics.Debug/4.3.0": {
@@ -1659,9 +2137,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Diagnostics.Debug.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Diagnostics.Debug.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Diagnostics.DiagnosticSource/4.4.1": {
@@ -1687,9 +2169,13 @@
           "System.Runtime.InteropServices": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/_._": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/_._": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netstandard1.3/System.Diagnostics.FileVersionInfo.dll": {
@@ -1711,9 +2197,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/_._": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/_._": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.Diagnostics.StackTrace.dll": {}
@@ -1727,9 +2217,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.0/System.Diagnostics.Tools.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.0/System.Diagnostics.Tools.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Diagnostics.Tracing/4.3.0": {
@@ -1740,9 +2234,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.5/System.Diagnostics.Tracing.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.5/System.Diagnostics.Tracing.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Dynamic.Runtime/4.3.0": {
@@ -1764,9 +2262,13 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Dynamic.Runtime.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Dynamic.Runtime.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.Dynamic.Runtime.dll": {}
@@ -1780,9 +2282,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Globalization.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Globalization.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Globalization.Calendars/4.3.0": {
@@ -1794,9 +2300,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Globalization.Calendars.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Globalization.Calendars.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Globalization.Extensions/4.3.0": {
@@ -1810,9 +2320,13 @@
           "System.Runtime.InteropServices": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/_._": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/_._": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netstandard1.3/System.Globalization.Extensions.dll": {
@@ -1835,9 +2349,13 @@
           "System.Threading.Tasks": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.5/System.IO.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.5/System.IO.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.IO.Compression/4.3.0": {
@@ -1860,9 +2378,13 @@
           "runtime.native.System.IO.Compression": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.IO.Compression.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.IO.Compression.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netstandard1.3/System.IO.Compression.dll": {
@@ -1889,9 +2411,13 @@
           "System.Text.Encoding": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.IO.Compression.ZipFile.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.IO.Compression.ZipFile.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.IO.Compression.ZipFile.dll": {}
@@ -1910,9 +2436,13 @@
           "System.Threading.Tasks": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.IO.FileSystem.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.IO.FileSystem.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.IO.FileSystem.Primitives/4.3.0": {
@@ -1921,9 +2451,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.IO.FileSystem.Primitives.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.IO.FileSystem.Primitives.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.IO.FileSystem.Primitives.dll": {}
@@ -1939,9 +2473,13 @@
           "System.Runtime.Extensions": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.6/System.Linq.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.6/System.Linq.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.6/System.Linq.dll": {}
@@ -1969,9 +2507,13 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.6/System.Linq.Expressions.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.6/System.Linq.Expressions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.6/System.Linq.Expressions.dll": {}
@@ -2008,9 +2550,13 @@
           "runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Net.Http.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Net.Http.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netstandard1.6/System.Net.Http.dll": {
@@ -2032,9 +2578,13 @@
           "System.Runtime.Handles": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Net.Primitives.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Net.Primitives.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Net.Sockets/4.3.0": {
@@ -2048,9 +2598,13 @@
           "System.Threading.Tasks": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Net.Sockets.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Net.Sockets.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.ObjectModel/4.3.0": {
@@ -2063,9 +2617,13 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.ObjectModel.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.ObjectModel.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.ObjectModel.dll": {}
@@ -2081,9 +2639,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.5/System.Reflection.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.5/System.Reflection.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Reflection.Emit/4.3.0": {
@@ -2096,9 +2658,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.1/_._": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.1/_._": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.Reflection.Emit.dll": {}
@@ -2112,9 +2678,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.0/_._": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.0/_._": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.Reflection.Emit.ILGeneration.dll": {}
@@ -2129,9 +2699,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.0/_._": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.0/_._": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.Reflection.Emit.Lightweight.dll": {}
@@ -2146,9 +2720,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.0/System.Reflection.Extensions.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.0/System.Reflection.Extensions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Reflection.Metadata/1.4.2": {
@@ -2172,6 +2750,7 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard1.1/System.Reflection.Metadata.dll": {
             "related": ".xml"
           }
@@ -2180,6 +2759,12 @@
           "lib/netstandard1.1/System.Reflection.Metadata.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard1.1/System.Reflection.Metadata.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.1/System.Reflection.Metadata.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Reflection.Primitives/4.3.0": {
@@ -2190,9 +2775,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.0/System.Reflection.Primitives.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.0/System.Reflection.Primitives.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Reflection.TypeExtensions/4.3.0": {
@@ -2202,9 +2791,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.5/System.Reflection.TypeExtensions.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.5/System.Reflection.TypeExtensions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.5/System.Reflection.TypeExtensions.dll": {}
@@ -2220,9 +2813,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.0/System.Resources.ResourceManager.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.0/System.Resources.ResourceManager.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Runtime/4.3.0": {
@@ -2232,14 +2829,19 @@
           "Microsoft.NETCore.Targets": "1.1.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.5/System.Runtime.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.5/System.Runtime.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Runtime.CompilerServices.Unsafe/4.4.0": {
         "type": "package",
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {
             "related": ".xml"
           }
@@ -2248,6 +2850,12 @@
           "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Runtime.Extensions/4.3.0": {
@@ -2258,9 +2866,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.5/System.Runtime.Extensions.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.5/System.Runtime.Extensions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Runtime.Handles/4.3.0": {
@@ -2271,9 +2883,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Runtime.Handles.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Runtime.Handles.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Runtime.InteropServices/4.3.0": {
@@ -2327,9 +2943,13 @@
           "System.Runtime.Extensions": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.1/System.Runtime.Numerics.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.1/System.Runtime.Numerics.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.Runtime.Numerics.dll": {}
@@ -2358,9 +2978,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Runtime.Serialization.Primitives.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Runtime.Serialization.Primitives.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.Runtime.Serialization.Primitives.dll": {}
@@ -2373,9 +2997,13 @@
           "System.Security.Principal.Windows": "4.4.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard2.0/System.Security.AccessControl.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard2.0/System.Security.AccessControl.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard2.0/System.Security.AccessControl.dll": {}
@@ -2504,9 +3132,13 @@
           "runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Security.Cryptography.Encoding.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Security.Cryptography.Encoding.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netstandard1.3/System.Security.Cryptography.Encoding.dll": {
@@ -2597,9 +3229,13 @@
           "runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.4/System.Security.Cryptography.X509Certificates.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.4/System.Security.Cryptography.X509Certificates.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netstandard1.6/System.Security.Cryptography.X509Certificates.dll": {
@@ -2615,9 +3251,13 @@
       "System.Security.Cryptography.Xml/4.4.0": {
         "type": "package",
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard2.0/System.Security.Cryptography.Xml.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard2.0/System.Security.Cryptography.Xml.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard2.0/System.Security.Cryptography.Xml.dll": {}
@@ -2629,9 +3269,13 @@
           "Microsoft.NETCore.Platforms": "2.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard2.0/System.Security.Principal.Windows.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard2.0/System.Security.Principal.Windows.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard2.0/System.Security.Principal.Windows.dll": {}
@@ -2655,9 +3299,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Text.Encoding.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Text.Encoding.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Text.Encoding.CodePages/4.3.0": {
@@ -2677,9 +3325,13 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/_._": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/_._": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netstandard1.3/System.Text.Encoding.CodePages.dll": {
@@ -2701,14 +3353,19 @@
           "System.Text.Encoding": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Text.Encoding.Extensions.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Text.Encoding.Extensions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Text.Encodings.Web/4.4.0": {
         "type": "package",
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/System.Text.Encodings.Web.dll": {
             "related": ".xml"
           }
@@ -2717,6 +3374,12 @@
           "lib/netstandard2.0/System.Text.Encodings.Web.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard2.0/System.Text.Encodings.Web.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Text.Encodings.Web.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Text.RegularExpressions/4.3.0": {
@@ -2738,9 +3401,13 @@
           "System.Threading.Tasks": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Threading.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Threading.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.Threading.dll": {}
@@ -2754,9 +3421,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Threading.Tasks.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Threading.Tasks.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Threading.Tasks.Extensions/4.3.0": {
@@ -2767,6 +3438,7 @@
           "System.Threading.Tasks": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard1.0/_._": {
             "related": ".xml"
           }
@@ -2775,6 +3447,12 @@
           "lib/netstandard1.0/System.Threading.Tasks.Extensions.dll": {
             "related": ".xml"
           }
+=======
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/System.Threading.Tasks.Extensions.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.Threading.Tasks.Parallel/4.3.0": {
@@ -2790,9 +3468,13 @@
           "System.Threading.Tasks": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.1/System.Threading.Tasks.Parallel.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.1/System.Threading.Tasks.Parallel.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.Threading.Tasks.Parallel.dll": {}
@@ -2804,9 +3486,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/_._": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/_._": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.Threading.Thread.dll": {}
@@ -2820,9 +3506,13 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.2/System.Threading.Timer.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.2/System.Threading.Timer.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       },
       "System.ValueTuple/4.3.0": {
@@ -2859,9 +3549,13 @@
           "System.Threading.Tasks.Extensions": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Xml.ReaderWriter.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Xml.ReaderWriter.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.ReaderWriter.dll": {}
@@ -2884,9 +3578,13 @@
           "System.Xml.ReaderWriter": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Xml.XDocument.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Xml.XDocument.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
@@ -2907,9 +3605,13 @@
           "System.Xml.ReaderWriter": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/System.Xml.XmlDocument.dll": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/System.Xml.XmlDocument.dll": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
@@ -2929,9 +3631,13 @@
           "System.Xml.ReaderWriter": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/_._": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/_._": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.dll": {}
@@ -2951,9 +3657,13 @@
           "System.Xml.XPath": "4.3.0"
         },
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard1.3/_._": {
             "related": ".xml"
           }
+=======
+          "ref/netstandard1.3/_._": {}
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
@@ -3480,6 +4190,10 @@
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.rtf",
         "analyzers/dotnet/cs/Microsoft.CodeAnalysis.Analyzers.dll",
         "analyzers/dotnet/cs/Microsoft.CodeAnalysis.CSharp.Analyzers.dll",
@@ -3888,6 +4602,10 @@
       "path": "microsoft.win32.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3965,6 +4683,10 @@
       "path": "netstandard.library/1.6.1",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "netstandard.library.1.6.1.nupkg.sha512",
@@ -4031,6 +4753,10 @@
       "path": "runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -4058,6 +4784,10 @@
       "path": "runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -4071,6 +4801,10 @@
       "path": "runtime.native.system/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -4084,6 +4818,10 @@
       "path": "runtime.native.system.io.compression/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -4111,6 +4849,10 @@
       "path": "runtime.native.system.security.cryptography.apple/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -4124,6 +4866,10 @@
       "path": "runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -4137,6 +4883,10 @@
       "path": "runtime.opensuse.13.2-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.opensuse.13.2-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -4164,6 +4914,10 @@
       "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple.4.3.0.nupkg.sha512",
@@ -4177,6 +4931,10 @@
       "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -4190,6 +4948,10 @@
       "path": "runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -4203,6 +4965,10 @@
       "path": "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -4216,6 +4982,10 @@
       "path": "runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -4229,6 +4999,10 @@
       "path": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -4242,6 +5016,10 @@
       "path": "system.appcontext/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4321,6 +5099,10 @@
       "path": "system.collections/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4388,6 +5170,10 @@
       "path": "system.collections.concurrent/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4455,6 +5241,10 @@
       "path": "system.collections.immutable/1.3.1",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/System.Collections.Immutable.dll",
@@ -4471,6 +5261,10 @@
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4509,6 +5303,10 @@
       "path": "system.collections.specialized/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4547,6 +5345,10 @@
       "path": "system.componentmodel/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4692,6 +5494,10 @@
       "path": "system.componentmodel.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4730,6 +5536,10 @@
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4782,6 +5592,10 @@
       "path": "system.console/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4819,6 +5633,10 @@
       "path": "system.diagnostics.debug/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4913,6 +5731,10 @@
       "path": "system.diagnostics.fileversioninfo/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4954,6 +5776,10 @@
       "path": "system.diagnostics.stacktrace/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4993,6 +5819,10 @@
       "path": "system.diagnostics.tools/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5049,6 +5879,10 @@
       "path": "system.diagnostics.tracing/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5138,6 +5972,10 @@
       "path": "system.dynamic.runtime/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5208,6 +6046,10 @@
       "path": "system.globalization/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5275,6 +6117,10 @@
       "path": "system.globalization.calendars/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5312,6 +6158,10 @@
       "path": "system.globalization.extensions/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5352,6 +6202,10 @@
       "path": "system.io/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5432,6 +6286,10 @@
       "path": "system.io.compression/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5502,6 +6360,10 @@
       "path": "system.io.compression.zipfile/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5540,6 +6402,10 @@
       "path": "system.io.filesystem/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5577,6 +6443,10 @@
       "path": "system.io.filesystem.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5615,6 +6485,10 @@
       "path": "system.linq/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5686,6 +6560,10 @@
       "path": "system.linq.expressions/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5851,6 +6729,10 @@
       "path": "system.net.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5929,6 +6811,10 @@
       "path": "system.net.sockets/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5966,6 +6852,10 @@
       "path": "system.objectmodel/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6035,6 +6925,10 @@
       "path": "system.reflection/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6241,6 +7135,10 @@
       "path": "system.reflection.extensions/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6297,6 +7195,10 @@
       "path": "system.reflection.metadata/1.4.2",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.1/System.Reflection.Metadata.dll",
@@ -6313,6 +7215,10 @@
       "path": "system.reflection.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6423,6 +7329,10 @@
       "path": "system.resources.resourcemanager/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6479,6 +7389,10 @@
       "path": "system.runtime/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6593,6 +7507,10 @@
       "path": "system.runtime.extensions/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6673,6 +7591,10 @@
       "path": "system.runtime.handles/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6710,6 +7632,10 @@
       "path": "system.runtime.interopservices/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6802,6 +7728,10 @@
       "path": "system.runtime.interopservices.runtimeinformation/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6836,6 +7766,10 @@
       "path": "system.runtime.numerics/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6892,6 +7826,10 @@
       "path": "system.runtime.serialization.formatters/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6920,6 +7858,10 @@
       "path": "system.runtime.serialization.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7032,6 +7974,10 @@
       "path": "system.security.cryptography.algorithms/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7072,6 +8018,10 @@
       "path": "system.security.cryptography.cng/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/net46/System.Security.Cryptography.Cng.dll",
@@ -7131,6 +8081,10 @@
       "path": "system.security.cryptography.encoding/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7187,6 +8141,10 @@
       "path": "system.security.cryptography.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7215,6 +8173,10 @@
       "path": "system.security.cryptography.x509certificates/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7331,6 +8293,10 @@
       "path": "system.text.encoding/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7437,6 +8403,10 @@
       "path": "system.text.encoding.extensions/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7523,6 +8493,10 @@
       "path": "system.text.regularexpressions/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7606,6 +8580,10 @@
       "path": "system.threading/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7676,6 +8654,10 @@
       "path": "system.threading.tasks/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7743,6 +8725,10 @@
       "path": "system.threading.tasks.extensions/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/System.Threading.Tasks.Extensions.dll",
@@ -7759,6 +8745,10 @@
       "path": "system.threading.tasks.parallel/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7815,6 +8805,10 @@
       "path": "system.threading.thread/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7854,6 +8848,10 @@
       "path": "system.threading.timer/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7908,6 +8906,10 @@
       "path": "system.valuetuple/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/.xml",
@@ -7924,6 +8926,10 @@
       "path": "system.xml.readerwriter/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7995,6 +9001,10 @@
       "path": "system.xml.xdocument/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -8064,6 +9074,10 @@
       "path": "system.xml.xmldocument/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -8102,6 +9116,10 @@
       "path": "system.xml.xpath/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -8140,6 +9158,10 @@
       "path": "system.xml.xpath.xdocument/4.3.0",
       "files": [
         ".nupkg.metadata",
+<<<<<<< HEAD
+=======
+        ".signature.p7s",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -8179,13 +9201,18 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Cliente\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+=======
+    "C:\\Users\\leomar.sartor\\.nuget\\packages\\": {},
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Projetos\\Relatorio\\Relatorio\\Relatorio.csproj",
       "projectName": "Relatorio",
       "projectPath": "C:\\Projetos\\Relatorio\\Relatorio\\Relatorio.csproj",
@@ -8199,6 +9226,19 @@
       "configFilePaths": [
         "C:\\Users\\Cliente\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+      "projectUniqueName": "C:\\Projetos\\Pdf\\Relatorio\\Relatorio\\Relatorio.csproj",
+      "projectName": "Relatorio",
+      "projectPath": "C:\\Projetos\\Pdf\\Relatorio\\Relatorio\\Relatorio.csproj",
+      "packagesPath": "C:\\Users\\leomar.sartor\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\Pdf\\Relatorio\\Relatorio\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\leomar.sartor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8206,6 +9246,12 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
+=======
+        "http://vmbplantap01dev/NuGetServer/nuget/": {},
+        "http://vmbtfs01des/FcNugetServer/nuget/": {},
+        "http://vmnexus01/repository/fun-nuget-group/": {},
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8235,8 +9281,12 @@
           "net47",
           "net471",
           "net472",
+<<<<<<< HEAD
           "net48",
           "net481"
+=======
+          "net48"
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -8248,7 +9298,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
       }
     }
   }

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Projetos\\Relatorio\\Relatorio\\Relatorio.csproj": {}
   },
   "projects": {
@@ -20,6 +21,25 @@
         "configFilePaths": [
           "C:\\Users\\Cliente\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+    "C:\\Projetos\\Pdf\\Relatorio\\Relatorio\\Relatorio.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\Pdf\\Relatorio\\Relatorio\\Relatorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Pdf\\Relatorio\\Relatorio\\Relatorio.csproj",
+        "projectName": "Relatorio",
+        "projectPath": "C:\\Projetos\\Pdf\\Relatorio\\Relatorio\\Relatorio.csproj",
+        "packagesPath": "C:\\Users\\leomar.sartor\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Pdf\\Relatorio\\Relatorio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\leomar.sartor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,6 +47,12 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
+=======
+          "http://vmbplantap01dev/NuGetServer/nuget/": {},
+          "http://vmbtfs01des/FcNugetServer/nuget/": {},
+          "http://vmnexus01/repository/fun-nuget-group/": {},
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,8 +82,12 @@
             "net47",
             "net471",
             "net472",
+<<<<<<< HEAD
             "net48",
             "net481"
+=======
+            "net48"
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -69,7 +99,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+>>>>>>> 0e5c425a0594ccae6870f69ec872d8abe250ebff
         }
       }
     }
