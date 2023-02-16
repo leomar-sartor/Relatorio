@@ -64,5 +64,6 @@ app.Run();
 //https://github.com/webgio/Rotativa.AspNetCore/blob/master/Rotativa.AspNetCore.Demo/Startup.cs
 
 //https://medium.com/volosoft/convert-html-and-export-to-pdf-using-dinktopdf-on-asp-net-boilerplate-e2354676b357
-
+//https://github.com/GilbertoCastro/Rotativo/tree/master/Rotativo_exemplo
+//https://bhavdiptala.blogspot.com/2016/05/displaying-headers-and-footers-in-pdf.html
 //SelectPDf tem limitação
