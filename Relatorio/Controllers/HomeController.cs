@@ -4,6 +4,9 @@ using Rotativa.AspNetCore;
 using System.Diagnostics;
 using Microsoft.AspNetCore.Hosting;
 using Rotativa.AspNetCore.Options;
+using DinkToPdf.Contracts;
+using DinkToPdf;
+using System.Net.Mime;
 
 namespace Relatorio.Controllers
 {
@@ -52,11 +55,12 @@ namespace Relatorio.Controllers
     {
         private readonly IWebHostEnvironment _webHostEnvironment;
         private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger, IWebHostEnvironment webHostEnvironment)
+        private readonly IConverter _converter;
+        public HomeController(ILogger<HomeController> logger, IWebHostEnvironment webHostEnvironment, IConverter converter)
         {
             _logger = logger;
             _webHostEnvironment = webHostEnvironment;
+            _converter = converter;
         }
 
         public IActionResult Index()
@@ -100,16 +104,61 @@ namespace Relatorio.Controllers
                 Model = pedido,
                 FileName = "Contact.pdf",
                 PageSize = Size.A4,
-                PageOrientation = Orientation.Portrait,
+                PageOrientation = Rotativa.AspNetCore.Options.Orientation.Portrait,
                 CustomSwitches = customSwitches
             };
 
             return pdf;
         }
 
+
+
+
         public IActionResult Privacy()
         {
-            return View();
+            var htmlContent = $@"
+	<!DOCTYPE html>
+	<html lang=""en"">
+	<head>
+		<style>
+		p{{
+			width: 80%;
+		}}
+		</style>
+	</head>
+	<body>
+		<h1>Some heading</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	</body>
+	</html>
+	";
+
+            var globalSettings = new GlobalSettings
+            {
+                ColorMode = ColorMode.Color,
+                Orientation = DinkToPdf.Orientation.Portrait,
+                PaperSize = PaperKind.A4,
+                Margins = new MarginSettings { Top = 18, Bottom = 18 },
+            };
+
+            var objectSettings = new ObjectSettings
+            {
+                PagesCount = true,
+                HtmlContent = htmlContent,
+                WebSettings = { DefaultEncoding = "utf-8" },
+                HeaderSettings = { FontSize = 10, Right = "Page [page] of [toPage]", Line = true },
+                FooterSettings = { FontSize = 8, Center = "PDF demo from JeminPro", Line = true },
+            };
+
+            var htmlToPdfDocument = new HtmlToPdfDocument()
+            {
+                GlobalSettings = globalSettings,
+                Objects = { objectSettings },
+            };
+
+            var pdf = _converter.Convert(htmlToPdfDocument);
+
+            return File(pdf, MediaTypeNames.Application.Pdf, "Teste.pdf");
         }
 
         public IActionResult Contact()
@@ -134,7 +183,7 @@ namespace Relatorio.Controllers
             {
                 FileName = "Contact.pdf",
                 PageSize = Size.A4,
-                PageOrientation = Orientation.Landscape,
+                PageOrientation = Rotativa.AspNetCore.Options.Orientation.Landscape,
                 CustomSwitches = customSwitches
             };
 
