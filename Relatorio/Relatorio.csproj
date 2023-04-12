@@ -7,6 +7,53 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Controllers\bootstrap.css" />
+    <None Remove="Controllers\bootstrap.min.css" />
+    <None Remove="Controllers\bootstrap.rtl.css" />
+    <None Remove="Controllers\bootstrap.rtl.min.css" />
+    <None Remove="Views\Home\bootstrap.css" />
+    <None Remove="Views\Home\bootstrap.min.css" />
+    <None Remove="Views\Home\bootstrap.rtl.css" />
+    <None Remove="Views\Home\bootstrap.rtl.min.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Controllers\bootstrap.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Controllers\bootstrap.min.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Controllers\bootstrap.rtl.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Controllers\bootstrap.rtl.min.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Views\Home\bootstrap.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Views\Home\bootstrap.min.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Views\Home\bootstrap.rtl.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Views\Home\bootstrap.rtl.min.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ChromeHtmlToPdf" Version="2.6.9" />
     <PackageReference Include="DinkToPdf" Version="1.0.8" />
     <PackageReference Include="Rotativa.AspNetCore" Version="1.2.0" />
   </ItemGroup>
