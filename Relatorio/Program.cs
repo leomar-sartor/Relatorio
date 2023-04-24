@@ -84,3 +84,6 @@ app.Run();
 //https://jeminpro.com/net-core-create-pdf-using-dinktopdf/
 //https://www.mikesdotnetting.com/article/364/exploring-generating-pdf-files-from-html-in-asp-net-core
 //https://medium.com/volosoft/convert-html-and-export-to-pdf-using-dinktopdf-on-asp-net-boilerplate-e2354676b357
+
+
+//https://github.com/Sicos1977/ChromeHtmlToPdf
